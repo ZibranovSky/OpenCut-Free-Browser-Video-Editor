@@ -1,0 +1,25 @@
+:root {
+  --bg-main: #101214;
+  --bg-panel: #15181b;
+  --bg-elevated: #1c2024;
+  --bg-hover: #242a30;
+  --border-subtle: #2a3036;
+  --border-strong: #39414a;
+  --text-primary: #f2f4f5;
+  --text-secondary: #9ba4ad;
+  --text-muted: #6e7781;
+  --accent: #6ce5c1;
+  --accent-strong: #45cda6;
+  --accent-ink: #0b211b;
+  --danger: #f36c76;
+  --warning: #e9b85f;
+  --timeline-grid: #22272c;
+  --selection: #70e8c5;
+  --playhead: #ff5e72;
+  --clip-video: #315f69;
+  --clip-audio: #574c7a;
+  --clip-image: #6d5d34;
+  --clip-text: #4d526d;
+  --radius: 8px;
+  --shadow: 0 12px 40px rgb(0 0 0 / 0.35);
+}
